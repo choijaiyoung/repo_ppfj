@@ -1,0 +1,10 @@
+{
+  "name": "platform-api",
+  "version": "1.0.0",
+  "description": "Product info API (AWS Lambda + MongoDB)",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mongoose": "^8.9.0"
+  }
+}
